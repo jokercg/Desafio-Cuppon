@@ -1,0 +1,25 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.gris{
+    color: #707070;
+    font-size: 16pt;
+    font-weight: 300;
+}
+.verde{
+    color: #28A745;
+    font-size: 20pt;
+    font-weight: 500;
+}
+.card-title{
+    font-size: 20pt;
+    font-weight: 300;
+}
+.card-text-1{
+    font-size: 16pt;
+    font-weight: 300;
+}
+.card-text-2{
+    font-size: 13pt;
+    font-weight: 300;
+}
